@@ -1,2 +1,2 @@
-rootProject.name='ExoTest'
+rootProject.name='exo_test'
 include ':app'
